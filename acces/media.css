@@ -2,6 +2,10 @@
 	.wrapper{
 		width: 100%;
 	}
+    .main_link_arrow_svg {
+        width: 40px;
+        height: 40px;
+    }
 	.wrap{
 		width: 95%;
 	}
@@ -50,6 +54,10 @@
 @media screen and (max-width: 768px){
 	p.pHeader {
     font-size: 17px;
+}
+.main_link_arrow_svg {
+    width: 30px;
+    height: 30px;
 }
 .headerLeft {
     align-items: center;
@@ -126,9 +134,8 @@ p.secEightText {
 	.hamburger-menu {
     display: block;
 }
-.privacy {
-    padding: 130px 20px;
-}
+
+
 .headerRight {
     display: none;
 }
@@ -539,14 +546,28 @@ p.headerFooterWhite {
     left: -15%;
     width: 360px;
 }
+.main_link_arrow_svg {
+    width: 40px;
+    height: 40px;
+}
 .copyright{
     flex-direction: column;
 }
+.phone__link {
+    bottom: 30%;
+    right: 1%;
+    display: flex;
+}
+.phone__link,
 .whatsapp_link,
 .telegram_link,
 .arrow_top{
     z-index: 99;
     width: 10%;
+}
+.main_link__svg {
+    width: 40px;
+    height: 40px;
 }
 .secThreeItem1 {
     width: 100%;
