@@ -50,18 +50,6 @@ if (trim($_POST['mfbPhone']) == '') {
   						</div>
 					</div></li>
 					<li><div class="burgerRight">
-				<div class="hLeftBurger">
-					<a href="tg://resolve?domain=@Maksmaksimstr" class="header_phone">
-						<img class="phone_svg" src="img/telegram.svg" alt="telegram">
-					</a>
-					
-				</div>
-				<div class="hMidBurger">
-					<a href="https://wa.me/+79174456502?text=Здравствуйте%2C+у+меня+есть+вопрос" class="header_phone">
-						<img class="phone_svg" src="img/whatsapp-icon.svg" alt="whatsapp">
-					</a>
-					
-				</div>
 				<div class="hRightBurger">
 					<img src="img/carbon_location.png">
 					<div class="dropdown">
@@ -890,18 +878,6 @@ else {
   						</div>
 					</div></li>
 					<li><div class="burgerRight">
-				<div class="hLeftBurger">
-					<a href="tg://resolve?domain=@Maksmaksimstr" class="header_phone">
-						<img class="phone_svg" src="img/telegram.svg" alt="telegram">
-					</a>
-					
-				</div>
-				<div class="hMidBurger">
-					<a href="https://wa.me/+79174456502?text=Здравствуйте%2C+у+меня+есть+вопрос" class="header_phone">
-						<img class="phone_svg" src="img/whatsapp-icon.svg" alt="whatsapp">
-					</a>
-					
-				</div>
 				<div class="hRightBurger">
 					<img src="img/carbon_location.png">
 					<div class="dropdown">
